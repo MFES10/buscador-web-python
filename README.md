@@ -8,6 +8,30 @@ Siga los pasos para utilizar la herramienta:
 - **Paso 2:** Haga clic en el cuadro de entrada de texto para **digitar su búsqueda**. Puede buscar escribiendo las abreviaciones previamente configuradas o sino el buscador intentará hacer la búsqueda en Google.
 - **Paso 3:** Haz clic en el botón **Buscar** o presiona la tecla **Enter** para realizar tu búsqueda.
 
+## Lista de abreviaciones
+- **GG** = Google
+- **FB** = Facebook
+- **TW** = Twitter
+- **IG** = Instagram
+- **SC** = Snapchat
+- **LI** = Linkedin
+- **PT** = Pinterest
+- **TT** = Tiktok
+- **YT** = Youtube
+- **WA** = Whatsapp
+- **TG** = Telegram
+- **SF** = Spotify
+- **RD** = Reddit
+- **TM** = Tumblr
+- **WC** = Wechat
+- **SK** = Skype
+- **DC** = Discord
+- **TC** = Twitch
+- **SL** = Slack
+- **VM** = Vimeo
+- **MD** = Medium
+- **QR** = Quor
+
 ## Versión de Buscador Web
 Buscador Web `v1.0.0`
 
